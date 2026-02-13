@@ -12,8 +12,8 @@
 ├── README.md
 ├── .gitignore
 ├── .prettierrc
-└── images/
-├── mark-guerrero.jpg
-├── tom-ford.jpg
-├── camila-garcia.jpg
-└── daniel-wilson.jpg
+├── images/
+│   ├── mark-guerrero.jpg
+│   ├── tom-ford.jpg
+│   ├── camila-garcia.jpg
+│   └── daniel-wilson.jpg
