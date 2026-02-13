@@ -7,6 +7,7 @@
 [Design on Figma](https://www.figma.com/design/wuEpGhwCepGCOUw7mZFRac/Web-Studio--Version-5.0-?node-id=296605-3&t=Li3Orc1ESvmjCkQb-0)
 
 ## What's Included
+```
 
 ├── index.html
 ├── README.md
@@ -17,3 +18,4 @@
 │   ├── tom-ford.jpg
 │   ├── camila-garcia.jpg
 │   └── daniel-wilson.jpg
+```
